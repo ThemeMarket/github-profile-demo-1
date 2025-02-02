@@ -3,14 +3,7 @@
 <h4 align="center">Experienced FullStack Web Developer focused on building high quality code. These are some of the tools I use:</h4>
 
 <div
-  style="
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    width: 50%;
-    max-width: 512px;
-    margin: 0 auto;
-  "
+  align="center"
 >
   <img alt="..." src="https://img.shields.io/badge/TypeScript-000000?logo=typescript">
   <img alt="..." src="https://img.shields.io/badge/Astro-ffffff?logo=astro">
