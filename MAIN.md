@@ -12,125 +12,13 @@
     margin: 0 auto;
   "
 >
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #fff;
-      color: #000;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/typescript.svg" alt="..." width="16" height="16" />
-    TypeScript
-  </div>
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #000;
-      color: #fff;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/astro.svg" alt="..." width="16" height="16" />
-    Astro
-  </div>
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #fff;
-      color: #000;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/angular.png" alt="..." width="16" height="16" />
-    Angular
-  </div>
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #000;
-      color: #fff;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/tailwindcss.svg" alt="..." width="16" height="16" />
-    TailwindCSS
-  </div>
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #fff;
-      color: #000;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/nestjs.svg" alt="..." width="16" height="16" />
-    NestJS
-  </div>
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #000;
-      color: #fff;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/postgresql.svg" alt="..." width="16" height="16" />
-    PostgreSQL
-  </div>
-  <div
-    style="
-      border-radius: 4px;
-      padding: 6px 12px;
-      background-color: #fff;
-      color: #000;
-      font-weight: 600;
-      font-size: 12px;
-      display: flex;
-      align-items:center;
-      justify-content: center;
-      gap: 6px;
-    "
-  >
-    <img src="./images/logos/mongo.svg" alt="..." width="16" height="16" />
-    MongoDB
-  </div>
+  <img alt="..." src="https://img.shields.io/badge/TypeScript-000000?logo=typescript">
+  <img alt="..." src="https://img.shields.io/badge/Astro-ffffff?logo=astro">
+  <img alt="..." src="https://img.shields.io/badge/NestJS-000000?logo=nestjs">
+  <img alt="..." src="https://img.shields.io/badge/PostgreSQL-ffffff?logo=postgresql">
+  <img alt="..." src="https://img.shields.io/badge/TailwindCSS-000000?logo=tailwindcss">
+  <img alt="..." src="https://img.shields.io/badge/MongoDB-ffffff?logo=mongodb">
+  <img alt="..." src="https://img.shields.io/badge/Angular-000000?logo=angular">
 </div>
 
 ## Short Bio 🧬
